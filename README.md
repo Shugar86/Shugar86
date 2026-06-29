@@ -2,7 +2,7 @@
 <pre align="center">
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║   S H U G A R 8 6                                             ║
+║   S H U G A R 8 6                                              ║
 ║   solo dev · Agent OS · VibeCraft                             ║
 ║   продукт важнее кода. вайб первым делом.                     ║
 ║                                                               ║
@@ -16,12 +16,11 @@
 
 <p align="center">
   <a href="https://github.com/Shugar86?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-32-181717?logo=github&style=for-the-badge" alt="32 repos">
+    <img src="https://img.shields.io/badge/Публичных%20проектов-15-181717?logo=github&style=for-the-badge" alt="15 публичных проектов">
   </a>
-  <a href="https://github.com/Shugar86/agent-os">
-    <img src="https://img.shields.io/badge/Agent%20OS-active-3b82f6?style=for-the-badge" alt="Agent OS">
+  <a href="https://github.com/Shugar86/vibecraft-manifest">
+    <img src="https://img.shields.io/badge/VibeCraft-manifest-8b5cf6?style=for-the-badge" alt="VibeCraft manifest">
   </a>
-  <img src="https://img.shields.io/badge/VibeCraft-on-8b5cf6?style=for-the-badge" alt="VibeCraft">
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TS%20%7C%20React%20%7C%20FastAPI-3178C6?style=for-the-badge" alt="Stack">
 </p>
 
@@ -29,68 +28,56 @@
 
 ## 🧠 Обо мне
 
-Я — solo-разработчик, который верит, что хороший продукт начинается с вайба. Собираю AI-агентов, автоматизирую рутину и превращаю идеи в работающие репозитории в `~/dev/`.
+Я — solo-разработчик, который верит, что хороший продукт начинается с вайба. Собираю AI-агентов, автоматизирую рутину и превращаю идеи в работающие репозитории.
 
-- 🧠 **Agent OS** — моя операционка для coding-агентов: один источник правил, скиллы и плейбуки.
-- ✨ **VibeCraft** — продукт важнее кода, вайб первым делом.
+- 🧠 **Agent OS** — моя операционка для coding-агентов: один источник правил, скиллы и плейбуки (приватная).
+- ✨ **[VibeCraft](https://github.com/Shugar86/vibecraft-manifest)** — манифест о том, как инженерить «душу» ИИ-агента; продукт важнее кода, вайб первым делом.
 - 🛠️ **Стек:** TypeScript, React, Next.js, Python, FastAPI, Node.js, Bun, LangGraph, Docker, Linux, VDS.
 - 🚀 **Commit — часть работы:** результат задачи всегда закоммичен, а `.env` с ключами остаётся при себе.
 
 ---
 
-## 🚀 Проекты
+## 🚀 Публичные проекты
 
 ### 🤖 AI-агенты и движки
 
 | Проект | Что делает | Стек |
 |--------|------------|------|
-| [agent-os](https://github.com/Shugar86/agent-os) | Единый операционный слой для coding-агентов: правила, скиллы, workspace и проверки в одном месте. | Markdown, Bash, Cursor, Kimi |
 | [my-agent](https://github.com/Shugar86/my-agent) | AI Agent OS для бизнеса: описал задачу текстом — получил работающего AI-оператора. | Python, FastAPI, React, Docker |
-| [social-ai-engine](https://github.com/Shugar86/social-ai-engine) | Автопилот для Instagram, который не забывает о человеке за штурвалом. | Python, Telegram Approval |
+| [social-ai-engine](https://github.com/Shugar86/social-ai-engine) | Автопилот автопостинга на ABC-контрактах, который не забывает о человеке за штурвалом. | Python |
 | [sales-bot-engine](https://github.com/Shugar86/sales-bot-engine) | Multi-persona оркестратор холодных чат-продаж, звучащий как опытный коллега. | Python, pytest, Docker |
-| [ai-tutor-engine](https://github.com/Shugar86/ai-tutor-engine) | Config-driven движок на LangGraph для Telegram-консультантов и продаж (VibeCraft Trade Bots). | Python, LangGraph, Flask, ChromaDB, SQLite, Telegram |
-| [stock-screener-agent](https://github.com/Shugar86/stock-screener-agent) | Тихий партнёр инвестора: каждое утро сканирует рынок и собирает дайджест. | Python, FastAPI, Celery, PostgreSQL, Next.js, Docker |
-| [complaint-generator](https://github.com/Shugar86/complaint-generator) | Грамотная претензия или жалоба за 2 минуты — без юриста и подписки. | Python, FastAPI, Docker |
-| [universal-complaint-ww](https://github.com/Shugar86/universal-complaint-ww) | Опиши ситуацию — получи готовый черновик документа (PDF/DOCX) на email. | Python, Node.js, FastAPI, Vite, Docker |
+| [methodist-agent](https://github.com/Shugar86/methodist-agent) | Спокойный помощник, берущий на себя документную рутину методиста вуза. | Python, Claude |
 
-### 📢 Соцсети / каналы
+### 🌐 Продукты и веб
 
 | Проект | Что делает | Стек |
 |--------|------------|------|
-| [beautymedics_channel](https://github.com/Shugar86/beautymedics_channel) | Автономный Telegram-канал косметологической клиники: пишет, рисует, отвечает как живой эксперт. | Bun, TypeScript, LangGraph, Docker |
+| [coffeeman](https://github.com/Shugar86/coffeeman) | Интернет-магазин кофе и чая, в котором хочется задержаться — как в любимой кофейне. | Next.js 15, React, Payload CMS, PostgreSQL, Tailwind, Docker |
+| [magikbook](https://github.com/Shugar86/magikbook) | Библиотека заклинаний для нейросетей: сообщество промптов и битвы. | Next.js 15, React, TypeScript, Tailwind |
+| [magikbook-api](https://github.com/Shugar86/magikbook-api) | Бэкенд MagikBook: публикуй, модерируй, сражайся в битвах промптов. | Python, FastAPI, SQLModel, Docker |
+| [pulse-chat](https://github.com/Shugar86/pulse-chat) | Корпоративный мессенджер с чатами, WebRTC-звонками и WireGuard VPN — приватность прежде всего. | React Native, Expo, Node.js, PostgreSQL, Redis, WebRTC |
+
+### 📢 Каналы и контент-агенты
+
+| Проект | Что делает | Стек |
+|--------|------------|------|
 | [netvork_market_channel](https://github.com/Shugar86/netvork_market_channel) | Автономный Telegram-канал-инфлюенсер в нише красоты и женского сетевого бизнеса. | Bun, TypeScript, LangGraph, Telegraf, Docker |
-| [podolog_vk_channel](https://github.com/Shugar86/podolog-vk-channel) | Один пост в день о подологии в VK: спокойный тон, медицинская этика. | Bun, TypeScript, VK, LangGraph |
-| [tea_channel](https://github.com/Shugar86/pegasszn-channel) | Автономный Telegram-канал о чае и кофе: пишет как живой эксперт, без снобизма и CTA. | TypeScript, Bun, LangGraph |
-| [pegasszn-channel](https://github.com/Shugar86/pegasszn-channel) | Рабочая копия чайно-кофейного Telegram-канала с VibeCraft-оркестрацией. | TypeScript, Bun, LangGraph |
-| [triple-face-blog](https://github.com/Shugar86/triple-face-blog) | Автономный Telegram-канал с тремя лицами одного бренда: автор, художник, комментатор. | Bun, TypeScript, Python, LangGraph |
-| [triple-face-chat-raid](https://github.com/Shugar86/triple-face-chat-raid) | Дискуссионный клуб с характером: четыре персоны ведут Telegram-канал как живые люди. | Bun, TypeScript, Python, LangGraph |
-| [pulse-chat](https://github.com/Shugar86/pulse-chat) | Корпоративный мессенджер с чатами, аудиозвонками WebRTC и WireGuard VPN — приватность прежде всего. | Expo, React Native, Node.js, Express, PostgreSQL, Redis, WebRTC, WireGuard |
 
-### 🛠 Инструменты и утилиты
+### 🛠 Инструменты и данные
 
 | Проект | Что делает | Стек |
 |--------|------------|------|
-| [weather-trip-scout](https://github.com/Shugar86/weather-trip-scout) | Утренний Telegram-бот, который ищет лучшие направления для поездки в радиусе 100 км и шлёт прогноз с картой. | Python, Pydantic, Open-Meteo, OSM, python-telegram-bot, Docker |
-| [raspisanie_dnevnik](https://github.com/Shugar86/raspisanie_dnevnik) | Автоматический мост между «Авторасписанием» и АИС «Дневник-ПОО» без ручного перебивания. | Python, FastAPI, Playwright |
-| [bridge-01](https://github.com/Shugar86/bridge-01) | Личный мостик капитана для управления прод-сервером в духе Star Trek: Docker, nginx, метрики, AI-офицер. | Python, FastAPI, React 19, Vite, Tailwind CSS, SQLite |
-| [server-mirror](https://github.com/Shugar86/server-mirror) | Тихий помощник, который держит резервную копию серверного состояния наготове. | Concept / Bash |
-| [claude-code](https://gitverse.ru/anarchic/claude-code) | Хирургический разбор исходников production Claude Code CLI для инженерного изучения. | TypeScript |
-| [ru-vpn-hub](https://github.com/Shugar86/ru-vpn-hub) | Тихий портал, который выдаёт друзьям рабочие VPN-профили и не требует рукоблудия. | Python, nginx, VLESS |
-| [kimi-free-api](https://github.com/Shugar86/kimi-free-api) | Локальный HTTP-адаптер для Kimi (Moonshot AI) за чистым и предсказуемым API. | Node.js, TypeScript, Docker |
-| [ecommerce-price-analytics](https://github.com/Shugar86/ecommerce-price-analytics) | PriceDesk: сбор, нормализация и визуальный анализ B2B-прайсов электротехники. | Python, FastAPI, PostgreSQL, scikit-learn, Docker, GitHub Actions |
-| [infodon](https://github.com/Shugar86/infodon) | Цифровая платформа интернет-провайдера: CMS, публичная витрина и лендинги на GitHub Pages. | Next.js, Payload CMS, React, TypeScript, Vite, PostgreSQL, Docker |
+| [weather-trip-scout](https://github.com/Shugar86/weather-trip-scout) | Утренний бот, подбирающий направления для поездки по погоде в радиусе до 100 км. | Python, Pydantic, Open-Meteo, OSM, python-telegram-bot, Docker |
+| [ecommerce-price-analytics](https://github.com/Shugar86/ecommerce-price-analytics) | PriceDesk: сбор, нормализация и визуальный анализ B2B-прайсов. | Python, FastAPI, PostgreSQL, scikit-learn, Docker |
+| [additive-light](https://github.com/Shugar86/additive-light) | Из текста и 3D-скана — в параметрическую CAD-модель, которую можно напечатать. | Python, OpenSCAD, OpenRouter |
 
-### 🧪 Эксперименты и хобби
+### 📚 Знание и open source
 
 | Проект | Что делает | Стек |
 |--------|------------|------|
-| [additive-light](https://github.com/Shugar86/additive-light) | Из текста и 3D-скана — в параметрическую CAD-модель, которую можно напечатать. | Python, OpenSCAD, OpenRouter, pytest |
-| additive-light _dev | Рабочая dev-копия additive-light: детерминированный reverse engineering STL → STEP. | Python, Open3D, Trimesh, Shapely |
-| ai-stylist | Три фото — и ты знаешь, что тебе идёт: премиум-анализ внешности, ухода и стиля. | Python, FastAPI, Next.js, LangGraph, OpenRouter |
-| [coffeeman](https://github.com/Shugar86/coffeeman) | Интернет-магазин кофе и чая, в котором хочется задержаться — как в любимой кофейне. | Next.js, React, Payload CMS, PostgreSQL, TypeScript, Tailwind CSS, Docker |
-| [magikbook](https://github.com/Shugar86/magikbook) | Библиотека заклинаний для нейросетей: сообщество промптов и битвы. | Next.js, React, TypeScript, Tailwind CSS, Node.js, Docker |
-| [magikbook-api](https://github.com/Shugar86/magikbook-api) | Бэкенд MagikBook: публикуй, модерируй, сражайся в битвах промптов и расшаривай магию. | Python, FastAPI, SQLModel, Docker |
-| [reverscad](https://github.com/Shugar86/reverscad) | Open-source reverse-engineering workbench: STL → параметрическая STEP-модель без лицензий CAD. | Python, FastAPI, build123d, React, Three.js |
+| [vibecraft-manifest](https://github.com/Shugar86/vibecraft-manifest) | Манифест: как инженерить «душу» ИИ-агента и как агенты взаимодействуют. RU/EN. | Markdown |
+| [ai-pair-programming-guide](https://github.com/Shugar86/ai-pair-programming-guide) | Гайд: как работать с AI-агентом как с напарником, а не «сделай за меня». | Markdown |
+| [pelvic-floor-bot](https://github.com/Shugar86/pelvic-floor-bot) | 🌿 Благотворительный навигатор тазового дна: Telegram-бот + лендинг + PDF-памятка. | Python, Next.js |
 
 ---
 
@@ -109,7 +96,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/VDS-2F855A?logo=serverfault&logoColor=white" alt="VDS">
 </p>
 
 ---
@@ -127,7 +113,7 @@
 ## 📫 Контакты
 
 - GitHub: [@Shugar86](https://github.com/Shugar86)
-- Репозитории: [github.com/Shugar86?tab=repositories](https://github.com/Shugar86?tab=repositories)
+- Все репозитории: [github.com/Shugar86?tab=repositories](https://github.com/Shugar86?tab=repositories)
 
 ---
 
