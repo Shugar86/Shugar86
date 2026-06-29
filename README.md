@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Shugar86?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20projects-15-181717?logo=github&style=for-the-badge" alt="15 public projects">
+    <img src="https://img.shields.io/badge/Public%20projects-16-181717?logo=github&style=for-the-badge" alt="16 public projects">
   </a>
   <a href="https://github.com/Shugar86/vibecraft-manifest">
     <img src="https://img.shields.io/badge/VibeCraft-manifest-8b5cf6?style=for-the-badge" alt="VibeCraft manifest">
@@ -87,6 +87,7 @@ I'm a solo developer who believes good products start with a vibe. I build AI ag
 | [weather-trip-scout](https://github.com/Shugar86/weather-trip-scout) | Morning bot that picks day-trip spots by weather within ~100 km. | Python, Pydantic, Open-Meteo, OSM, Telegram, Docker |
 | [ecommerce-price-analytics](https://github.com/Shugar86/ecommerce-price-analytics) | PriceDesk: collect, normalize and visually analyze B2B price lists. | Python, FastAPI, PostgreSQL, scikit-learn, Docker |
 | [additive-light](https://github.com/Shugar86/additive-light) | From text and a 3D scan → a parametric CAD model you can print. | Python, OpenSCAD, OpenRouter |
+| [reverscad](https://github.com/Shugar86/reverscad) | Reverse-engineering workbench: an STL scan → a parametric STEP model, no CAD license. | Python, FastAPI, build123d, C++, React |
 
 ### 📚 Knowledge & open source
 
@@ -201,6 +202,7 @@ I'm a solo developer who believes good products start with a vibe. I build AI ag
 | [weather-trip-scout](https://github.com/Shugar86/weather-trip-scout) | Утренний бот, подбирающий направления для поездки по погоде в радиусе до 100 км. | Python, Pydantic, Open-Meteo, OSM, Telegram, Docker |
 | [ecommerce-price-analytics](https://github.com/Shugar86/ecommerce-price-analytics) | PriceDesk: сбор, нормализация и визуальный анализ B2B-прайсов. | Python, FastAPI, PostgreSQL, scikit-learn, Docker |
 | [additive-light](https://github.com/Shugar86/additive-light) | Из текста и 3D-скана — в параметрическую CAD-модель, которую можно напечатать. | Python, OpenSCAD, OpenRouter |
+| [reverscad](https://github.com/Shugar86/reverscad) | Reverse-engineering: STL-скан → параметрическая STEP-модель без лицензий CAD. | Python, FastAPI, build123d, C++, React |
 
 ### 📚 Знание и open source
 
