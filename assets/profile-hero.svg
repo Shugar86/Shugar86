@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title description">
+  <title id="title">Shugar86 — Ideas, made usable.</title>
+  <desc id="description">A blue wordmark on pale blue paper. An open sketch becomes a working creative tool, with a parametric shape, editing handles, and a video timeline.</desc>
+  <rect width="1200" height="350" rx="20" fill="#f4f8ff"/>
+
+  <g font-family="Trebuchet MS, DejaVu Sans, sans-serif">
+    <text x="60" y="172" fill="#1646e8" font-size="94" font-weight="700" letter-spacing="-5">Shugar86</text>
+    <text x="65" y="223" fill="#15233d" font-size="30" letter-spacing="-.6">Ideas, made usable.</text>
+  </g>
+
+  <!-- A free sketch, with its working geometry still visible. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M646 224 C647 169 685 133 727 148 C768 163 767 216 733 226 C694 238 678 202 699 177 C725 146 773 154 802 173 L850 173" stroke="#1646e8" stroke-width="4"/>
+    <path d="M646 224 L667 120 M727 148 L782 166 M733 226 L698 250" stroke="#1646e8" stroke-width="1.5" opacity=".35"/>
+  </g>
+  <g fill="#f4f8ff" stroke="#1646e8" stroke-width="2">
+    <circle cx="667" cy="120" r="4"/>
+    <circle cx="698" cy="250" r="4"/>
+    <rect x="723" y="144" width="8" height="8"/>
+  </g>
+
+  <!-- One editor: shape above, time below. -->
+  <rect x="850" y="63" width="290" height="231" rx="12" fill="#fff" stroke="#15233d" stroke-width="2"/>
+  <path d="M850 99 H1140 M850 235 H1140" fill="none" stroke="#15233d" stroke-width="2"/>
+  <path d="M870 76 L878 81 L870 86 Z" fill="#1646e8"/>
+  <path d="M891 81 H928" fill="none" stroke="#15233d" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1107 76 V86 M1102 81 H1112" fill="none" stroke="#15233d" stroke-width="2" stroke-linecap="round"/>
+
+  <g fill="none" stroke="#1646e8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M914 174 L960 126 L1069 142 L1043 208 L944 211 Z" fill="#ffcbe0" stroke-width="2"/>
+    <path d="M914 174 L994 158 L1069 142 M960 126 L994 158 L1043 208 M994 158 L944 211" stroke-width="2"/>
+    <path d="M895 173 H1087 M994 115 V221" stroke-width="1" stroke-dasharray="3 6" opacity=".35"/>
+  </g>
+  <g fill="#fff" stroke="#1646e8" stroke-width="2">
+    <rect x="910" y="170" width="8" height="8"/>
+    <rect x="956" y="122" width="8" height="8"/>
+    <rect x="1065" y="138" width="8" height="8"/>
+    <rect x="1039" y="204" width="8" height="8"/>
+    <rect x="940" y="207" width="8" height="8"/>
+  </g>
+  <circle cx="994" cy="158" r="4" fill="#1646e8"/>
+
+  <g fill="none" stroke="#15233d" stroke-width="1.5" opacity=".35">
+    <path d="M871 246 V251 M906 246 V251 M941 246 V251 M976 246 V251 M1011 246 V251 M1046 246 V251 M1081 246 V251 M1116 246 V251"/>
+  </g>
+  <rect x="870" y="259" width="82" height="18" rx="3" fill="#43c7be"/>
+  <rect x="957" y="259" width="104" height="18" rx="3" fill="#1646e8"/>
+  <rect x="1066" y="259" width="55" height="18" rx="3" fill="#ffcbe0"/>
+  <path d="M982 239 V286" fill="none" stroke="#15233d" stroke-width="2"/>
+  <path d="M977 239 H987 L982 245 Z" fill="#15233d"/>
+</svg>
