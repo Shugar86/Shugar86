@@ -20,7 +20,15 @@
 
 [Скачать](https://github.com/Shugar86/vids-studio/releases/tag/v0.3.0) · [Установка](https://github.com/Shugar86/vids-studio/blob/main/docs/ru/platforms.md) · [Как устроено](https://github.com/Shugar86/vids-studio/blob/main/docs/ru/architecture.md) · [Исходники](https://github.com/Shugar86/vids-studio)
 
-<sub>Нужен собственный доступ к Google Vids. <a href="https://github.com/Shugar86/vids-studio/actions/runs/39673003140">Нативные проверки v0.3.0 пройдены</a>; живая приёмка автоматического экспорта Google Vids ещё впереди. <a href="https://github.com/Shugar86/vids-studio/blob/main/docs/ru/testing.md">Что проверено</a>.</sub>
+<p>
+  <a href="https://shugar86.github.io/vids-studio/ru/">
+    <img src="assets/sasha-and-the-lamp.jpg" alt="Саша и лампа — посмотреть деморолик Vids Studio" width="240">
+  </a>
+</p>
+
+**[Смотреть: «Саша и лампа»](https://shugar86.github.io/vids-studio/ru/)** — ролик на 45,9 секунды, смонтированный в Google Vids с Codex на Linux. Озвучка на русском; в плеере доступны английские субтитры. [Что изменилось и что проверено](https://github.com/Shugar86/vids-studio/blob/main/docs/ru/demo.md).
+
+<sub>Нужен собственный доступ к Google Vids. <a href="https://github.com/Shugar86/vids-studio/actions/runs/39673003140">Нативные проверки v0.3.0 пройдены</a>. MP4 деморолика получен и проверен отдельно; коннектор пока не смог автоматически подтвердить эту загрузку. <a href="https://github.com/Shugar86/vids-studio/blob/main/docs/ru/testing.md">Что проверено</a>.</sub>
 
 ## Избранные проекты
 
