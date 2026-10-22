@@ -22,13 +22,13 @@ Describe the audience, story and materials. The agent works in the Vids document
 
 <p>
   <a href="https://shugar86.github.io/vids-studio/">
-    <img src="assets/sasha-and-the-lamp.jpg" alt="Sasha and the lamp — watch the Vids Studio demo" width="240">
+    <img src="assets/sasha-and-the-lamp-v5.jpg" alt="Sasha and the lamp v5 — watch the Vids Studio demo" width="240">
   </a>
 </p>
 
-**[Watch: Sasha and the lamp](https://shugar86.github.io/vids-studio/)** — a 45.9-second video edited in Google Vids with Codex on Linux. Russian audio; English captions available in the player. [What changed and what was checked](https://github.com/Shugar86/vids-studio/blob/main/docs/en/demo.md).
+**[Watch: Sasha and the lamp · Claude v5](https://shugar86.github.io/vids-studio/)** — the creator’s preferred 45.5-second cut, assembled in Google Vids with Claude Code. Russian audio; English captions available in the player. [What changed and what was checked](https://github.com/Shugar86/vids-studio/blob/main/docs/en/demo.md).
 
-<sub>Requires your own Google Vids access. <a href="https://github.com/Shugar86/vids-studio/actions/runs/39673003140">Native platform CI passed for v0.3.0</a>. The demo MP4 was obtained and checked separately; automatic download correlation through the connector remains unresolved. <a href="https://github.com/Shugar86/vids-studio/blob/main/docs/en/testing.md">Verification details</a>.</sub>
+<sub>Requires your own Google Vids access. <a href="https://github.com/Shugar86/vids-studio/actions/runs/39673003140">Native platform CI passed for v0.3.0</a>. The current demo MP4 has file-level verification; live acceptance of the automated export workflow remains a separate requirement. <a href="https://github.com/Shugar86/vids-studio/blob/main/docs/en/testing.md">Verification details</a>.</sub>
 
 ## Selected work
 
